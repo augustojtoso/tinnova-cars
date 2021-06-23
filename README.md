@@ -5,6 +5,10 @@ Note: Since I am not well knowlaged on front-end development I decided to skip t
 I could just use some online template, however I found this somewhat cheating. 
 So this application will only work as a backend API
 
+## Project
+
+The project specification can be found on the pdf file: avaliacao_tinnova_vG.pdf
+
 ## Installation
 
 Use Maven (https://maven.apache.org/download.cgi) to install tinnova-cars.
